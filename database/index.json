@@ -45,18 +45,18 @@
  ],
  "resume":[{
      "id":8,
-     "name":"project",
+     "name":"experience",
      "description":""
   },
    {
      "id":9,
      "name":"skills",
-     "description":""
+     "description":"Html,'CSS','Bootstrap','JavaScript ','Vue.JS'"
    },
    {
      "id":10,
      "name":"education",
-     "description":""
+     "description":"QueensPark High School,'life choices'"
    }
  
  ],
