@@ -2,33 +2,47 @@
     "Project":[{
          "id":3,
          "ProjectName":"Netflix",
-         "url":"https://iili.io/JYJfWkF.jpg"
+         "url":"https://iili.io/JYJfWkF.jpg",
+         "github":"https://github.com/Heathermtuedwa/Netflix-project.git",
+         "vercel":"https://netflix-project-roan.vercel.app/"
+      
+          
  
     },
     {
      "id":4,
      "ProjectName":"ToDoList",
-     "url":"https://iili.io/JYJGbsf.png"
+     "url":"https://iili.io/JYJGbsf.png",
+     "github":"https://todo-list-3s1q.vercel.app/",
+      "vercel":"https://github.com/Heathermtuedwa/todo---list.git"
     },
     {
      "id":5,
      "ProjectName":"interest-amount",
-     "url":"https://iili.io/JYJXwBa.png"
+     "url":"https://iili.io/JYJXwBa.png",
+     "github":"https://github.com/Heathermtuedwa/interestAmount.git",
+      "vercel":"https://interest-amount-one.vercel.app/"
     },
     {
      "id":6,
      "ProjectName":"age-to-days",
-     "url":"https://iili.io/JYJVKvI.png"
+     "url":"https://iili.io/JYJVKvI.png",
+     "github":"",
+      "vercel":""
     },
     {
      "id":7,
      "ProjectName":"Calculator",
-     "url":"https://iili.io/JYJMI5P.jpg"
+     "url":"https://iili.io/JYJMI5P.jpg",
+     "github":"",
+      "vercel":""
     },
     {
      "id":7,
      "ProjectName":"E-commerce",
-     "url":"https://iili.io/JYJEiZb.jpg"
+     "url":"https://iili.io/JYJEiZb.jpg",
+     "github":"https://github.com/Heathermtuedwa/interestAmount.git",
+      "vercel":"https://vercel.com/heather-mtuedwas-projects/interest-amount"
     }
  ],
  "resume":[{
