@@ -1,45 +1,28 @@
 {
-    
-    "intro":"Welcome to my Portfoilo",
-    "Home":[
-             {
-          "id":1,
-          "Intro":"Hi hello",
-          "image url":""
-             }
-     
-    ],
-    "About":[{
-         "id":2,
-         "description":"",
-         "image url":""
-    }
-     
-    ],
     "Project":[{
          "id":3,
-         "ProjectName":"Project1",
-         "url":""
+         "ProjectName":"Netflix",
+         "url":"https://iili.io/JYJfWkF.jpg"
  
     },
     {
      "id":4,
-     "ProjectName":"Project2",
+     "ProjectName":"ToDoList",
      "url":""
     },
     {
      "id":5,
-     "ProjectName":"Project3",
+     "ProjectName":"interest-amount",
      "url":""
     },
     {
      "id":6,
-     "ProjectName":"Project6",
+     "ProjectName":"age-to-days",
      "url":""
     },
     {
      "id":7,
-     "ProjectName":"Project7",
+     "ProjectName":"",
      "url":""
     },
     {
@@ -74,7 +57,7 @@
   {
      "id":11,
      "name":"Ntando",
-     "description":""
+     "description":"Heather is truly an exceptional young professional. Her remarkable work ethic consistently shines through in her projects. It is evident that she thrives under pressure, demonstrating the ability to navigate challenging situations with poise. Heather is always eager to both seek and offer assistance, creating a collaborative and supportive environment. Her presence brings a refreshing and focused vibe to the spaces she occupies. Having collaborated closely with Heather, I can confidently attest to her adeptness in engaging with tasks and taking full accountability for her responsibilities."
   },
   {
      "id":12,
