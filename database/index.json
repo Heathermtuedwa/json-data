@@ -5,8 +5,6 @@
          "url":"https://iili.io/JYJfWkF.jpg",
          "github":"https://github.com/Heathermtuedwa/Netflix-project.git",
          "vercel":"https://netflix-project-roan.vercel.app/"
-      
-          
  
     },
     {
@@ -27,15 +25,15 @@
      "id":6,
      "ProjectName":"age-to-days",
      "url":"https://iili.io/JYJVKvI.png",
-     "github":"",
-      "vercel":""
+     "github":"https://github.com/Heathermtuedwa/AgeToDays.git",
+      "vercel":"https://vercel.com/heather-mtuedwas-projects/age-to-days"
     },
     {
      "id":7,
      "ProjectName":"Calculator",
      "url":"https://iili.io/JYJMI5P.jpg",
-     "github":"",
-      "vercel":""
+     "github":"https://github.com/Heathermtuedwa/calculator.git",
+      "vercel":"https://calculator-rho-umber-81.vercel.app/"
     },
     {
      "id":7,
