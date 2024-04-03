@@ -51,12 +51,12 @@
    {
      "id":9,
      "name":"skills",
-     "description":"Html,'CSS','Bootstrap','JavaScript ','Vue.JS'"
+     "description":"Html,CSS,Bootstrap,JavaScript,Vue.J"
    },
    {
      "id":10,
      "name":"education",
-     "description":"QueensPark High School,'life choices'"
+     "description":"QueensPark High School,life choices"
    }
  
  ],
