@@ -49,17 +49,20 @@
      "description":"No working experience"
   },
    {
-     "id":9,
-     "name":"skills",
-     "description":"Html,CSS,Bootstrap,JavaScript,Vue.J"
-   },
-   {
      "id":10,
      "name":"education",
      "description":"QueensPark High School,life choices"
    }
  
  ],
+
+ "Skill":[{
+   "id":9,
+   "name":"skills",
+   "description":"Html,CSS,Bootstrap,JavaScript,Vue.J"
+
+  }
+],
   "testmonials":[{
      "id":10,
      "name":"Thandeka",
